@@ -1,0 +1,87 @@
+{
+    "name": "orcs",
+    "cards-levels": {
+        "one": [
+            {
+                "level": 1,
+                "name": "Some card",
+                "type": "Unit",
+                "base-power": 2,
+                "image": "",
+                "skills": [],
+                "abilities": [
+                    {
+                        "type": "play",
+                        "range": "close",
+                        "description": "Do something cool"
+                    }
+                ]
+            },
+            {
+                "level": 1,
+                "name": "Some card",
+                "type": "Unit",
+                "base-power": 2,
+                "image": "",
+                "skills": [],
+                "abilities": [
+                    {
+                        "type": "play",
+                        "range": "close",
+                        "description": "Do something cool"
+                    }
+                ]
+            }
+        ],
+        "two": [
+            {
+                "level": 2,
+                "name": "Some card",
+                "type": "Unit",
+                "base-power": 2,
+                "image": "",
+                "skills": [],
+                "abilities": [
+                    {
+                        "type": "play",
+                        "range": "close",
+                        "description": "Do something cool"
+                    }
+                ]
+            },
+            {
+                "level": 2,
+                "name": "Some card",
+                "type": "Unit",
+                "base-power": 2,
+                "image": "",
+                "skills": [],
+                "abilities": [
+                    {
+                        "type": "play",
+                        "range": "close",
+                        "description": "Do something cool"
+                    }
+                ]
+            }
+        ],
+        "three": [
+
+        ],
+        "four": [
+
+        ],
+        "five": [
+
+        ],
+        "six": [
+
+        ],
+        "seven": [
+
+        ],
+        "leader": [
+
+        ]
+    }
+}
